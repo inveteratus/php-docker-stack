@@ -15,5 +15,8 @@ composer install
 
 Now edit .env to suit.
 
-**APP_NAME** needs to be a single word or kebab-case name.
+* **APP_NAME** needs to be a single word or kebab-case name.
+* **DB_DATABASE** is up to you, and will be created as the stack is created
+* **DB_USERNAME** is up to you, and will be created as the stack is created
+* **DB_PASSWORD** is up to you.
 
